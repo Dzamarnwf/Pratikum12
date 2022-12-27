@@ -1,8 +1,8 @@
 # Praktikum12
 ## String
 ```
-Nama  : Dipca Anugrah
-NIM   : 312210666
+Nama  : Dzamar nawaf fatih firdaus
+NIM   : 312010477
 Kelas : TI.22.A.4
 ```
 # Code dan Penjelasan Program
